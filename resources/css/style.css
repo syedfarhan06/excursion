@@ -1,0 +1,29 @@
+.body {
+    background-color: black;
+}
+
+#firstline {
+    text-align: center;
+    font-family: verdana;
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+}
+
+#link {
+    margin: 0 auto;
+    display: block;
+    font-size: 16px;
+    color: aquamarine;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+
+h2 {
+    font-family: Verdana;
+    font-size: 42px;
+    font-weight: 300;
+    color: white !important;
+    text-align: center;
+}
