@@ -1,5 +1,6 @@
 .body {
     background-color: black;
+    padding: 3% 0;
 }
 
 #firstline {
@@ -26,4 +27,26 @@ h2 {
     font-weight: 300;
     color: white !important;
     text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+img, video {
+    margin: 0 auto;
+    display: block;
+align-items: center;
+}
+
+footer {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+    font-weight: lighter;
+    padding: 0 2%;
 }
